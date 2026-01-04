@@ -1,0 +1,9 @@
+{
+  "name": "AR CONTROL SISTEMA",
+  "description": "A comprehensive business management application for inventory, sales, customers, and employees. Optimized for tablet use with a suite of utility tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
